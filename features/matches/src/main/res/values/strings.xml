@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="matches_title">Matches</string>
+    <string name="filter_last_1_hour">Last 1 hour</string>
+    <string name="filter_last_3_hours">Last 3 hours</string>
+    <string name="filter_last_6_hours">Last 6 hours</string>
+    <string name="filter_today">Today</string>
+    <string name="filter_label">Filter: %1$s</string>
+    <string name="score_unavailable">Score unavailable</string>
 </resources>
